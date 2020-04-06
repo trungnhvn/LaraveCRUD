@@ -1,22 +1,22 @@
 ## LaraveCRUD
 
-### git clone https://github.com/trungnhvn/LaraveCRUD.git
+#### git clone https://github.com/trungnhvn/LaraveCRUD.git
 
-### cd LaravelCRUD
+#### cd LaravelCRUD
  
-### copy .env.exaple .env
+#### copy .env.exaple .env
  
-### change mysql coonection & database name
+#### change mysql coonection & database name
  
-### php artisan key:generate
+#### php artisan key:generate
  
-### php artisan config:cache
+#### php artisan config:cache
  
 #### php artisan storage:link
  
-### chmod -R 777 public/Uploads
-### chmod -R 777 public/Uploads/Post 
+#### chmod -R 777 public/Uploads
+#### chmod -R 777 public/Uploads/Post 
  
-### php artisan serve
+#### php artisan serve
  
  
