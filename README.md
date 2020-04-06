@@ -12,7 +12,7 @@
  
 ### php artisan config:cache
  
-# php artisan storage:link
+#### php artisan storage:link
  
 ### chmod -R 777 public/Uploads
 ### chmod -R 777 public/Uploads/Post 
