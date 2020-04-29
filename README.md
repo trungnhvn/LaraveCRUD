@@ -7,6 +7,8 @@
 #### copy .env.exaple .env
  
 #### change mysql coonection & database name
+
+#### composer update
  
 #### php artisan key:generate
  
@@ -16,6 +18,8 @@
  
 #### chmod -R 777 public/Uploads
 #### chmod -R 777 public/Uploads/Post 
+
+#### npm install && npm run dev
  
 #### php artisan serve
  
